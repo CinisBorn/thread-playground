@@ -9,3 +9,7 @@ version = "0.1.0"
 [[package]]
 name = "crate-threads"
 version = "0.1.0"
+
+[[package]]
+name = "mutex"
+version = "0.1.0"
